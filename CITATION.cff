@@ -37,12 +37,7 @@ authors:
     orcid: https://orcid.org/0000-0001-5483-4965
     website: https://github.com/r-ford
     affiliation: University at Albany (State University of New York)
-  - family-names: Paul
-    given-names: Kevin
-    orcid: https://orcid.org/0000-0001-8155-8038
-    website: https://github.com/kmpaul
-    affiliation: NVIDIA
-  - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
-    website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
-title: "Cookbook Template"
-abstract: "A sample cookbook description."
+  - name: "Cookbook Hackathon Contributors" # use the 'name' field to acknowledge organizations
+    website: "https://github.com/ProjectPythia/pythia-cookoff-2025/graphs/contributors"
+title: "Pythia Cook-off 2025"
+abstract: "Website for the Pythia Cook-off June 2025."
