@@ -28,4 +28,4 @@ Familiarity with Python, git and GitHub, and Jupyter will help you best collabor
 Check out [Pythia Foundations](https://foundations.projectpythia.org) for a crash course in these topics.
 We also encourage non-code participation through the creation of narrative text, images or GIFs, and even produced videos to support Cookbook content.
 
-Pythia is committed to building an inclusive space that promotes and values diversity. We hope that our platform can represent the diverse voices present in the geoscience community, as we work together to solve global challenges.
+Pythia is committed to building a community for geoscientists to come together and share open source solutions. We hope that our platform can represent and support the many voices working together to solve a global challenge. 
