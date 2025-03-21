@@ -13,6 +13,8 @@ Registration, funding, and hotel block information TBA.
 
 ## What is it?
 
+_Take a look at some [Cookbooks that got made at the 2024 Cook-off](https://projectpythia.org/posts/new-cookbooks.html) event!_
+
 Project Pythia continues offering its annual _Cook-off_ hackathon for creating and maintaining Pythia Cookbooks. [Pythia Cookbooks](https://cookbooks.projectpythia.org) are crowd-sourced collections of domain-specific tutorials and exemplar workflows, building upon our [Pythia Foundations](https://foundations.projectpythia.org) tutorials. Cookbooks are supported by a rich GitHub-based infrastructure enabling collaborative authoring and automated health-checking to ensure reproducibility.
 
 Participants in the Cook-off will develop their skills in contributing code and non-code to open source projects, demonstrating open science practices, and communicating and collaborating with other professionals. By doing so, they will grow the collection of accessible, reusable, and reproducible Cookbooks. This is a space for scientists, educators, and developers to bring their ideas, existing code, or rough notebooks and collaborate on turning them into community Cookbooks.
