@@ -6,7 +6,7 @@
 
 
 ## Join Project Pythia August 5-8 2025 
-in-person in Boulder, CO at the [NCAR Mesa Lab](https://scied.ucar.edu/visit) or virtually via Zoom.
+In-person in Boulder, CO at the [NCAR Mesa Lab](https://scied.ucar.edu/visit).
 
 Registration, funding, and hotel block information TBA.
 
