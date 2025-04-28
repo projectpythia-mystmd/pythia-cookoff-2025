@@ -1,11 +1,10 @@
 format: jb-book
 root: README
-# parts:
-#   - caption: Essential info
-#     chapters:
-#       - file: schedule
-#       - file: travel
-#       - file: breakouts
-#       - file: virtual
-#       - file: onboarding
-#       - file: faq
+parts:
+  - caption: Essential info
+    chapters:
+      - file: schedule
+      - file: travel
+      - file: breakouts
+      - file: onboarding
+      - file: faq
