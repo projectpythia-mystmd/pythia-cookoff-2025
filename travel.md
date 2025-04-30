@@ -13,9 +13,10 @@ Hotel information coming soon.
 
 Project Pythia has limited funding from the U.S. National Science Foundation to support travel expenses for participants!
 
-
 ### How?
 
 #### Travel Support
 
-Participant Travel Support (PTS) will be made available for a limited number of attendees. We anticipate accepting applications starting in May. Please check back soon.
+Participant Travel Support (PTS) will be made available for a limited number of attendees. We anticipate accepting applications starting in mid-May. Please check back soon.
+
+**Travel support applications will close June 20th.**
