@@ -1,4 +1,4 @@
-# Drraft Hackathon Schedule 
+# Draft Hackathon Schedule 
 
 _This is a placeholder draft and will change._
 
