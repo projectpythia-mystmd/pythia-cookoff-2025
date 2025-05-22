@@ -6,4 +6,3 @@ dependencies:
   - jupyter-cache
   - jupyterlab
   - sphinx-pythia-theme
-  - importlib-metadata = 8.6.1
