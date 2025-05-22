@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - jupyter-book
+  - jupyter-cache
   - jupyterlab
   - sphinx-pythia-theme
-  - importlib_metadata
+  - importlib-metadata = 8.6.1
