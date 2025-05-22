@@ -18,5 +18,3 @@ Project Pythia has limited funding from the U.S. National Science Foundation to 
 #### Travel Support
 
 Participant Travel Support (PTS) will be made available for a limited number of attendees. Please indicate your support needs when you [register](https://www.eventsquid.com/contestant-reg.cfm?event_id=27191). Applications for PTS are due by June 20.
-
-**Travel support applications will close June 20th.**
