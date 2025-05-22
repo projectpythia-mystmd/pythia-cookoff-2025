@@ -5,5 +5,4 @@ dependencies:
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
-  - importlib_metadata>=3.6.0
-  - myst-nb
+  - importlib_metadata
