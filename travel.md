@@ -11,10 +11,10 @@ Hotel information coming soon.
 
 ## Funding for travel
 
-Project Pythia has limited funding from the U.S. National Science Foundation to support travel expenses for participants!
+Project Pythia has limited funding from the U.S. National Science Foundation to support travel expenses for US student and PosDdoc participants!
 
 ### How?
 
 #### Travel Support
 
-Participant Travel Support (PTS) will be made available for a limited number of attendees. Please indicate your support needs when you [register](https://www.eventsquid.com/contestant-reg.cfm?event_id=27191). Applications for PTS are due by June 20.
+Participant Travel Support (PTS) will be made available for a limited number of attendees. Participant travel support is only available to students and PostDocs residing in the US. Please indicate your support needs when you [register](https://www.eventsquid.com/contestant-reg.cfm?event_id=27191). Applications for PTS are due by June 20.
