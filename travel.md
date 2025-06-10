@@ -7,7 +7,7 @@ The 2024 Pythia Cook-off will be hosted at the NCAR Mesa Lab:
 1850 Table Mesa Dr.
 Boulder, CO 80305
 
-Hotel information coming soon.
+Recommended hotels are the the [Fairfield Inn](https://www.marriott.com/en-us/hotels/vboff-fairfield-inn-and-suites-boulder/overview/) and the [Residence Inn](https://www.marriott.com/en-us/hotels/vbocg-residence-inn-boulder/overview/) on Center Green.
 
 ## Funding for travel
 
